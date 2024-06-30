@@ -54,7 +54,7 @@ My responsibilities in this project encompass the conceptualization of tables to
 
 ## ERD
 
-![Entity-Relationship Diagram](SQL-challenge/EmployeeSQL/ERD.png)
+![Entity-Relationship Diagram](EmployeeSQL/ERD.png)
 
 ## Quick DB Diagram
 
