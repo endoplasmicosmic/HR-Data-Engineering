@@ -1,4 +1,4 @@
-# SQL-challenge - Pewlett Hackard Employee Database
+# Pewlett Hackard Employee Database
 
 ## Background
 
